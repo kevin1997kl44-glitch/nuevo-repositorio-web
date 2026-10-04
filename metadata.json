@@ -1,0 +1,6 @@
+{
+  "name": "Apalanchii – Cabo de la Vela",
+  "description": "Vive la magia del Cabo de la Vela en Apalanchii. Hospedaje auténtico frente al mar, gastronomía local Wayuu y aventuras inolvidables en La Guajira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
